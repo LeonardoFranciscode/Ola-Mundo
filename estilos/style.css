@@ -1,0 +1,15 @@
+* {
+    color: aliceblue;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: rgb(10, 49, 49);
+}
+
+main {
+    background-color: aqua;
+    margin: auto;
+    box-shadow: 3px 3px 5px rgba(rgba(90, 144, 153, 0.767), green, blue, alpha);
+}
